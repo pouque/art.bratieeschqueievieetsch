@@ -9,13 +9,13 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="158.75mm"
+   width="22.754168mm"
    height="22.827822mm"
-   viewBox="0 0 158.75 22.827821"
+   viewBox="0 0 22.754168 22.827821"
    version="1.1"
    id="svg8"
    inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
-   sodipodi:docname="logo.svg"
+   sodipodi:docname="favicon.svg"
    inkscape:export-filename="/home/zaza/dev/html/artbrat/img/logo-sm.png"
    inkscape:export-xdpi="64.480003"
    inkscape:export-ydpi="64.480003">
@@ -28,9 +28,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="247.46025"
-     inkscape:cy="14.51646"
+     inkscape:zoom="4"
+     inkscape:cx="75.925562"
+     inkscape:cy="42.59594"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -62,21 +62,18 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(-0.77804041,-100.56939)">
+    <rect
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#dd0000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.71413565;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:0.71413563, 0.71413563;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none"
+       id="rect4587"
+       width="22.754168"
+       height="22.827822"
+       x="0.77804041"
+       y="100.56939" />
     <g
-       id="g4833"
-       transform="matrix(0.60419933,0,0,0.60419933,-142.2129,64.28462)"
-       inkscape:export-filename="/tmp/logo-2sm.png"
-       inkscape:export-xdpi="240.33833"
-       inkscape:export-ydpi="240.33833">
-      <rect
-         y="60.054306"
-         x="236.66187"
-         height="37.781937"
-         width="262.74442"
-         id="rect4587"
-         style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#dd0000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:3.12195659;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:3.12195659, 3.12195659;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none" />
+       id="g888"
+       transform="translate(-0.02345293,0.27879921)">
       <g
-         transform="translate(1.0369108e-5,-2.6272491e-6)"
+         transform="matrix(0.60419933,0,0,0.60419933,-155.9639,64.565251)"
          id="g4825">
         <text
            xml:space="preserve"
@@ -89,7 +86,7 @@
              id="tspan4518"
              x="407.69147"
              y="58.123459"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Letter Gothic Std';-inkscape-font-specification:'Letter Gothic Std';fill:#ffffff;fill-opacity:1;stroke-width:1.11206722px">ART BRATIEESCHQUEIEVIEETSCH</tspan></text>
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Letter Gothic Std';-inkscape-font-specification:'Letter Gothic Std';fill:#ffffff;fill-opacity:1;stroke-width:1.11206722px">ART</tspan></text>
         <text
            xml:space="preserve"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.69013119px;line-height:16.70018578px;font-family:'Letter Gothic Std';-inkscape-font-specification:'Letter Gothic Std';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.66800743px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
