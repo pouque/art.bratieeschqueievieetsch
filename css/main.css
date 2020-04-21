@@ -1,0 +1,23 @@
+#pouque {
+    position: absolute;
+    top: 5px;
+    right: 5px;
+}
+
+#logo {
+    width: 50%;
+}
+
+
+@media (max-width: 768px) {
+    #slogan {
+        font-size: 1.4rem;
+    }
+}
+
+
+@media (min-width: 768px) {
+    #logo {
+        width: 25%;
+    }
+}

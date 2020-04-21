@@ -1,6 +1,6 @@
 (function ($) {
     setTimeout(function () {
-        $('.toast').toast('show', {
+        $('#pouque').toast('show', {
             autohide: false
         });
     }, 2000);
